@@ -1,6 +1,10 @@
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-rounded&logo=youtube&logoColor=white)](https://www.youtube.com/@fading-sun-studios)
+[![Discord](https://img.shields.io/badge/EliteNinjas-Join%20Us-5865F2?style=flat-rounded&logo=discord&logoColor=white)](https://discord.gg/eliteninjas)
+
+
 - 👋 Hi, I’m @HashirShazad
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unreal Engine 5
+- 🌱 I’m currently learning Godot
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me hashir447079@gmail.com
 
