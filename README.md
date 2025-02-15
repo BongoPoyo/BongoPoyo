@@ -4,7 +4,7 @@
 
 ---
 
-- I am Hashir (Bongo)
+- I am Hashir (Bongo).
 - I am interested in GameDev and LowLevelProgramming.
 - How to reach me: hashir447079@gmail.com
 
