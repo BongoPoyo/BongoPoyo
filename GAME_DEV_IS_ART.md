@@ -6,8 +6,9 @@ First we would need to differentiate between them.
 Let us compare it to another creative job like being a musician:
 
 ### Musician
-Being a musician is not easy, it takes time and dedication. Which most people staright up lack.
-And even if you have them, you need a teacher, you need to see others play. First you begin by learning how to play Music written by others.
+Being a musician is not easy, it takes time and dedication. Which most people straight up lack.
+And even if you have them, you need a teacher, you need to see others play.
+First you begin by learning how to play Music written by others.
 You slowly begin to understand the instrument. Then you study "Music Theory". You deliberatly practice the skills required to be a great musician.
 After spending enough time, copying and learning how to play music. You become ready to compose your own.
 
