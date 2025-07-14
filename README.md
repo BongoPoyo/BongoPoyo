@@ -7,7 +7,9 @@
 # 💫 About Me:
 - I am Hashir (Bongo).
 - I am interested in GameDev and Linux.
-- How to reach me: **hashir447079@gmail.com**
+
+# Information
+- Email: **hashir447079@gmail.com**
 - Matrix Id: **@bongopoyo:matrix.org**
 <!---
 HashirShazad/HashirShazad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
