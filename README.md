@@ -7,8 +7,6 @@
 # 💫 About Me:
 - I am Hashir (Bongo).
 - I am interested in GameDev and Linux.
-
-# 💫 Information:
 - Email: **hashir447079@gmail.com**
 - Matrix Id: **@bongopoyo:matrix.org**
 <!---
