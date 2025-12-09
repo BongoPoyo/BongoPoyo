@@ -10,17 +10,18 @@
 [![Music](https://img.shields.io/badge/Music-Github%20Repo-1DB954?style=flat-rounded&logo=github&logoColor=white)](https://github.com/BongoPoyo/music)
 [![Artwork](https://img.shields.io/badge/Artwork-Github%20Repo-FF5C93?style=flat-rounded&logo=github&logoColor=white)](https://github.com/BongoPoyo/AsepriteArtwork)
 ---
-</div>
+
 
 # 💫 About Me:
-- I am Bongo.
-- I am interested in GameDev and Linux.
-- Email: **bongopoyo@proton.me**
-- Matrix Id: **@bongopoyo:matrix.org**
-
+| Parameter | Value |
+| --- | --- |
+| Name | Bongo |
+| Interested in | GameDev, Linux and Rust |
+| Email | bongopoyo@proton.me |
+| Matrix | @bongopoyo:matrix.org |
 
 Banner by the amazing Clara.
-
+</div>
 <!---
 HashirShazad/HashirShazad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
