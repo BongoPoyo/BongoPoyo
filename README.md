@@ -5,12 +5,11 @@
 </p>
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-Channel-red?style=flat-rounded&logo=youtube&logoColor=white)](https://www.youtube.com/@mhashirshahzad)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Page-orange?style=flat-rounded&logo=itch.io&logoColor=white)](https://mhashirshahzad.itch.io)
-[![Music](https://img.shields.io/badge/Music-Github%20Repo-1DB954?style=flat-rounded&logo=github&logoColor=white)](https://github.com/mhashirshahzad/music)
-[![Artwork](https://img.shields.io/badge/Artwork-Github%20Repo-FF5C93?style=flat-rounded&logo=github&logoColor=white)](https://github.com/mhashirshahzadcode sample up in a new tab in Rust Playground. This feature is enabled if you use the #[doc] attribute called html_playground_url.
+[![YouTube](https://img.shields.io/badge/YouTube-Channel-11111b?style=flat-rounded&logo=youtube&logoColor=cdd6f4)](https://www.youtube.com/@mhashirshahzad)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Page-11111b?style=flat-rounded&logo=itch.io&logoColor=cdd6f4)](https://mhashirshahzad.itch.io)
+[![Music](https://img.shields.io/badge/Music-Github%20Repo-11111b?style=flat-rounded&logo=github&logoColor=cdd6f4)](https://github.com/mhashirshahzad/music)
+[![Artwork](https://img.shields.io/badge/Artwork-Github%20Repo-11111b?style=flat-rounded&logo=github&logoColor=cdd6f4)](https://github.com/mhashirshahzad/AsepriteArtwork)
 
-/AsepriteArtwork)
 ---
 
 
